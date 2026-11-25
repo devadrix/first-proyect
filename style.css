@@ -1,0 +1,6 @@
+.contenedor{
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    gap: 50px;
+}
